@@ -34,6 +34,19 @@ Imaginons ensemble que cela est possible.
 Dans ce cas, il nous faudrait quelque chose ou quelqu'un qui nous permettre ces mesures et nous assure une exactitude necessaire a la rigueur scientifique. Qielque chose ... ou quelqu'un ... de si precieux qu'il faudrait, comme le metre ou le kilogramme etalon le mettre sous cloche et le proteger pour qu'il garde son exactitude, sa precision et son infaillibilite. 
 Quelque chose ou quelqu'un de si statistiquement improbable que personne ne l'avait imagine.
 
+## Comment decouvre-t-on l'etalon?
+Decouverte fortuite?
+Campagne de test? Marketing, pharmaceutique, scientifique
+
+Comment la nouvelle se propage-t-elle?
+Communique de presse?
+Articles scientifiques?
+Croisements de bases de donnees?
+Fuite suite a une cyber attaque?
+
+Preuve irrefutable, debat scientifque, phenomene mediatique, enquetes et protection.
+
+Il devait etre 18h quand la nouvelle est tombee. Toutes les radios ne parlent que de ca, des millions de donnees personnelles ont ete piratees et mises en ligne. C'est un phenomene sans precedent. Julian Assange devoile les proprietaires de comptes banquaires et l'identite d'entreprises faisant une evasion fiscale sans precedent.
 
 ## Qu'est-ce qu'un etalon?
 
@@ -54,7 +67,6 @@ Quelque chose ou quelqu'un de si statistiquement improbable que personne ne l'av
 
 ## Une machine a mesurer l'homme
 
-## Comment decouvre-t-on l'etalon?
 
 ## La guerre des etalons
 ### A chacun le sien
