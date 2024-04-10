@@ -16,8 +16,16 @@ def convert_to_md(input_docx, output_md):
                 # Ajouter le titre avec le niveau approprié dans le fichier Markdown
                 md_file.write('#' * heading_level + ' ' + paragraph.text + '\n\n')
             else:
-                # Écrire le texte du paragraphe dans le fichier Markdown
-                md_file.write(paragraph.text + '\n\n')
+                # Écrire le texte du paragraphe avec les mises en forme appropriées dans le fichier Markdown
+                md_text = ''
+                for run in paragraph.runs:
+                    if run.bold:
+                        md_text += '**' + run.text + '**'
+                    elif run.italic:
+                        md_text += '*' + run.text + '*'
+                    else:
+                        md_text += run.text
+                md_file.write(md_text + '\n')
 
 if __name__ == '__main__':
     # Créer un objet ArgumentParser
