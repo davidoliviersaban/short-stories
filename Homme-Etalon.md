@@ -13,7 +13,8 @@ Pr Dubois ?
 Ennemis :
 Laboratoires étrangers
 Élites
-
+Neutres :
+Etienne Lavoie
 Étape Sept : L’Approche du cœur de la caverne
 Étape Huit : L’Épreuve suprême
 Étape Neuf : La Récompense
@@ -30,7 +31,7 @@ Une singularité statistique 
 Méga fuite de données
 Débat entre scientifiques
 Présentation de Claude par Astride
-**Étape ****Un :**** Le Monde ordinaire**** **
+**Étape** **Un :** **Le Monde ordinaire** **** 
 La vie moyenne de Claude, exemples
 Rendez-vous chez le médecin.
 Lecture des magazines
@@ -54,16 +55,16 @@ Débats et politique, Claude n’a pas d’avis
 Tout commence par un débat politique
 Claude écoute distraitement le débat
 Claude en parle au bureau le lendemain, débat houleux dans l’équipe, Claude ne prend pas parti.
-**Étape ****Deux :**** L’appel de l’aventure**
-**Étape ****Trois :**** Le Refus de l’appel**
-**Étape ****Quatre :**** La Rencontre avec le mentor **
+**Étape** **Deux :** **L’appel de l’aventure** 
+**Étape** **Trois :** **Le Refus de l’appel** 
+**Étape** **Quatre :** **La Rencontre avec le mentor** 
 Rencontre de Benoit et Claude
 Autour d’un repas, chacun fait le point sur sa vie.
 Claude est divorce avec un enfant a dont il s’occupe et un enfant pas de lui dont il prend la charge une fois par mois.
 Les Français ont en moyenne 1,8 enfants par couple.
 Claude raconte ses fins de mois difficiles et aimerait les arrondir.
 Benoît lui propose de venir travailler à son laboratoire pour tester ses produits. 
-**Étape Cinq : Le Passage du premier seuil**
+**Étape Cinq : Le Passage du premier seuil** 
 Introduction du professeur Dubois.
 Décision d'inviter Claude pour effectuer des tests et valider les hypothèses
 Appel à Claude
@@ -71,9 +72,9 @@ Validation des résultats
 Premiers débats internes sur les problèmes liés à Claude : que peut-on faire de Claude ?
 Opposition : on n’a jamais eu d’être vivant comme unité de mesure.
 
-**Moment pivot ou Claude devient la moyenne -> ****génération**** du ****délire**** et justification par la science**
+**Moment pivot ou Claude devient la moyenne ->** **génération** **du** **délire** **et justification par la science** 
 
-**Étape ****Six :**** Les Tests, les Alliés et les Ennemis**
+**Étape** **Six :** **Les Tests, les Alliés et les Ennemis** 
 Comment Claude passe d’homme moyen a une moyenne.
 L'évolution de la vie de Claude, plus de travail, emballement médiatique
 La jalousie des collègues
@@ -86,7 +87,7 @@ Création du premier colloque sur le Claude
 Un appareil à mesurer en Claude
 Les enjeux internationaux
 La guerre des Claude
-Les **controverses** : Les problèmes inhérents à la mesure par le Claude ou quand la moitié des français vivent au rythme de Claude
+Les **controverses**  : Les problèmes inhérents à la mesure par le Claude ou quand la moitié des français vivent au rythme de Claude
 Chaque chapitre de controverse doit être initie par un débat et s’en suit une précision par un exemple.
 La controverse du poids : Claude peut prendre du poids et en perdre.
 La controverse de l’humeur : Les changements d'humeur de Claude
@@ -215,31 +216,51 @@ Claude est né à Châteauroux un 7 mai, mais serait originaire de Bruère-Allic
 
 !! A REVOIR !!
 
-Divorcé avec enfants, Claude occupe un emploi municipal à temps partiel dans un appartement d’un peu moins de 70m2.
-Du point de vue de la santé, Claude ne présente aucun problème congénital ni de maladie orpheline connue, ce qui semble tout à fait normal. Cependant, Claude porte des lunettes, a déjà eu au moins une carie sans pour autant recourir à des soins orthodontiques et n'a jamais souffert de crise d'appendicite. 
-Sur le plan financier, Claude a déjà contracté plusieurs emprunts de courte durée, effectue régulièrement ses courses en ligne, bien qu'il se rende à son hypermarché local pour les achats importants. Il semble que Claude ait récemment fait l'acquisition d'un poisson rouge.
+> Divorcé avec enfants, Claude occupe un emploi municipal à temps partiel
+> dans un appartement d’un peu moins de 70m2.
+
+> Du point de vue de la santé, Claude ne présente aucun problème congénital ni de maladie orpheline connue, ce qui semble tout à fait normal. Cependant,
+> Claude
+> porte des lunettes, a déjà eu au moins une carie sans pour autant recourir à des soins orthodontiques et n'a jamais souffert de crise d'appendicite.
+
+> Sur le plan financier, Claude a déjà contracté plusieurs emprunts
+> de courte durée
+> ,
+> effectue régulièrement ses courses en ligne, bien qu'il se rende à son hypermarché local pour les achats importants. Il semble que Claude ait récemment fait l'acquisition d'un poisson rouge.
+
 
 
 !! A REVOIR x2 !!
 
-Après des semaines de calculs et de multiples validations avec ses collègues, Astride retourna voir à ses pairs pour exposer ses résultats.
-« C'est bon, j'ai la confirmation de ce que nous croyons. Nous tenons notre singularité »
+> Après des semaines de calculs et de multiples validations avec ses collègues, Astride retourna voir à ses pairs pour exposer ses résultats.
+
+> « C'est bon, j'ai la confirmation de ce que nous croyons. Nous tenons notre singularité »
 
 
-Astride acquiesça, notant l'importance de l'enjeu. « Avec une telle découverte, nous pourrions avoir le prix Nobel, vous savez », murmura-t-elle, laissant échapper un léger souffle d'excitation.
 
-Son supérieur leva les yeux de l’écran, le regard perçant. « Chaque chose en son temps, mademoiselle », répondit-il avec calme.
-
-« Si c'est le cas, nous allons révolutionner le monde. Un champ incroyable va s'ouvrir devant nous, de nouvelles théories, un nouveau champ de recherche. Une nouvelle science même, probablement. » continua-t-elle.
-
-« Probable », acquiesça le professeur. « Comment en êtes-vous arrivé à trouver cette singularité ? »
-
-« C'est un peu par hasard », commença la chercheuse, le regard perdu dans ses pensées. « Un ami travaille dans un autre laboratoire et fait une thèse sur le marketing digital. Nous nous sommes demandé si nous pouvions croiser ces données avec celles d'autres laboratoires avec lesquels nous travaillons habituellement et peut-être trouver quelque chose d'intéressant. Il se trouve qu'en effet, certains groupes d'individus plus sensibles aux publicités sont également sensibles aux produits cosmétiques. Pour chercher plus de corrélation, nous avons fait tourner un algorithme de clustering pour tenter de mieux regrouper des catégories de personnes. »
+> Astride acquiesça, notant l'importance de l'enjeu. « Avec une telle découverte, nous pourrions avoir le prix Nobel, vous savez », murmura-t-elle, laissant échapper un léger souffle d'excitation.
 
 
-« Bien. Cette personne pourrait être la clé pour comprendre l'humanité dans son ensemble. »
+> Son supérieur leva les yeux de l’écran, le regard perçant. « Chaque chose en son temps, mademoiselle », répondit-il avec calme.
 
-Elle savait que la tâche ne serait pas facile, mais elle était prête à relever le défi. Après tout, c'était peut-être l'opportunité d'une vie.
+
+> « Si c'est le cas, nous allons révolutionner le monde. Un champ incroyable va s'ouvrir devant nous, de nouvelles théories, un nouveau champ de recherche. Une nouvelle science même, probablement. » continua-t-elle.
+
+
+> « Probable », acquiesça le professeur. « Comment en êtes-vous arrivé à trouver cette singularité ? »
+
+
+> « C'est un peu par hasard », commença la chercheuse, le regard perdu dans ses pensées. « Un ami travaille dans un autre laboratoire et fait une thèse sur le marketing digital. Nous nous sommes demandé si nous pouvions croiser ces données avec celles d'autres laboratoires avec lesquels nous travaillons habituellement et peut-être trouver quelque chose d'intéressant. Il se trouve qu'en effet, certains groupes d'individus plus sensibles aux publicités sont également sensibles aux produits cosmétiques. Pour chercher plus de corrélation, nous avons fait tourner un algorithme de clustering pour tenter de mieux regrouper des catégories de personnes. »
+
+
+
+> « Bien.
+> C
+> ette personne pourrait être la clé pour comprendre l'humanité dans son ensemble. »
+
+
+> Elle savait que la tâche ne serait pas facile, mais elle était prête à relever le défi. Après tout, c'était peut-être l'opportunité d'une vie.
+
 !! A REVOIR !!
 
 # La vie ordinaire : chez son médecin
@@ -260,7 +281,12 @@ Alors qu'il était absorbé par sa lecture, Claude fut soudain interrompu par l'
 Après les salutations d'usage, Claude sortit ses analyses et expliqua brièvement les raisons de sa visite.
 "Très bien," répondit le médecin en examinant les résultats. "Tout semble être dans l'ordre. Vos analyses sont excellentes, Claude, et parfaitement dans la moyenne. Je vais vous prendre la tension et faire un point global."
 
-Tandis que le médecin pompait sur la poire, Claude prit une profonde inspiration, et questionna le praticien :
+> Tandis que le médecin pompait sur la poire,
+> Claude prit une profonde inspiration
+> , et
+> questionna le praticien
+> :
+
 « Docteur, j'ai lu récemment un article sur les essais médicaux. Il parlait de personnes aux États-Unis qui participaient à plusieurs tests médicaux pour gagner un revenu supplémentaire. Cela m'a intrigué, et je me demandais quel est votre point de vue sur ces pratiques. »
 Le médecin leva les sourcils, manifestement intéressé par la question de Claude.
 « Ah, vous faites référence aux essais cliniques », répondit-il. « C'est en effet un sujet important et complexe. Les essais cliniques sont essentiels pour le développement de nouveaux médicaments et traitements, mais ils doivent être menés de manière éthique et responsable. Les participants doivent être pleinement informés des risques et des bénéfices potentiels, et leur consentement doit être libre et éclairé. En ce qui concerne la rémunération des participants, c'est une question délicate. D'une part, cela peut être une incitation pour certaines personnes à participer, mais d'autre part, cela soulève des préoccupations éthiques quant à la motivation des participants et à la possibilité de compromettre la sécurité des essais. C'est pourquoi il est crucial que les essais cliniques soient réglementés et surveillés de près pour garantir l'intégrité du processus et la sécurité des participants. »
@@ -295,32 +321,32 @@ Par ailleurs, Claude envisageait des petits plaisirs comme un bracelet sympa, un
 
 # La vie ordinaire : débat et boulot
 
-**Animateur :** Bonsoir à tous et bienvenue dans notre débat télévisé spécial sur l'ontologie mathématique. Ce soir, nous allons explorer les arguments pour et contre l'adoption d'une ontologie mathématique dans notre société. D'un côté, nous avons nos invités qui soutiennent l'intégration de cette approche dans notre compréhension du monde, et de l'autre côté, ceux qui expriment des réserves quant à son utilité et sa pertinence. Pour débuter, je vais donner la parole au Docteur Sophie Martin, qui va nous définir ce qu’est l’ontologie pour nos téléspectateurs.
+**Animateur :**  Bonsoir à tous et bienvenue dans notre débat télévisé spécial sur l'ontologie mathématique. Ce soir, nous allons explorer les arguments pour et contre l'adoption d'une ontologie mathématique dans notre société. D'un côté, nous avons nos invités qui soutiennent l'intégration de cette approche dans notre compréhension du monde, et de l'autre côté, ceux qui expriment des réserves quant à son utilité et sa pertinence. Pour débuter, je vais donner la parole au Docteur Sophie Martin, qui va nous définir ce qu’est l’ontologie pour nos téléspectateurs.
 
-**Dr.**** Martin :** Bonsoir à tous et merci de m’avoir invité sur ce plateau. Je vous remercie pour cette question et je vais clarifier tout de suite ce qu'est l'ontologie.  
+**Dr.** **Martin :**  Bonsoir à tous et merci de m’avoir invité sur ce plateau. Je vous remercie pour cette question et je vais clarifier tout de suite ce qu'est l'ontologie.  
 L'ontologie est une branche de la philosophie qui traite de l'étude de l'être en tant qu'être, c'est-à-dire de la nature de l'existence, de la réalité et de ce qui constitue l'essence des choses. Elle cherche à répondre à des questions fondamentales telles que : Qu'est-ce qui existe ? Quelle est la nature de l'existence ? Quelles sont les catégories d'êtres ? L'ontologie examine les différentes catégories d'entités qui existent, leurs propriétés et leurs relations. Elle explore également les concepts de substance, de cause et d'essence, ainsi que les modalités de l'existence telles que la possibilité, la nécessité et la contingence.
 
-**Présentateur** : Excusez-moi Docteur, mais je pense que nous en avons besoin d'une définition beaucoup plus simple pour nos téléspectateurs.
+**Présentateur**  : Excusez-moi Docteur, mais je pense que nous en avons besoin d'une définition beaucoup plus simple pour nos téléspectateurs.
 
-**Dr.**** Martin :** Pardon ! Bien sûr ! L'ontologie, c'est comme une carte qui nous aide à comprendre et à organiser le monde qui nous entoure. C'est une façon de classer et de décrire les choses, comme les objets, les idées ou même les relations entre elles. Cela nous aide à répondre à des questions comme "Qu'est-ce que c'est ?", "Comment cela fonctionne-t-il ?" ou "De quoi est-il fait ?". En résumé, l'ontologie nous aide à mieux comprendre ce qui existe et comment tout cela s'articule.
+**Dr.** **Martin :**  Pardon ! Bien sûr ! L'ontologie, c'est comme une carte qui nous aide à comprendre et à organiser le monde qui nous entoure. C'est une façon de classer et de décrire les choses, comme les objets, les idées ou même les relations entre elles. Cela nous aide à répondre à des questions comme "Qu'est-ce que c'est ?", "Comment cela fonctionne-t-il ?" ou "De quoi est-il fait ?". En résumé, l'ontologie nous aide à mieux comprendre ce qui existe et comment tout cela s'articule.
 
-**Présentateur :** Merci Docteur Martin pour cette précision, j'en viens à notre second invité qui est en faveur de l'ontologie mathématique. Cher Professeur Dubois, qu'est-ce que l'ontologie mathématique ? Et pourquoi pensez-vous que l'ontologie mathématique est une perspective utile pour la compréhension de notre monde ?
+**Présentateur :**  Merci Docteur Martin pour cette précision, j'en viens à notre second invité qui est en faveur de l'ontologie mathématique. Cher Professeur Dubois, qu'est-ce que l'ontologie mathématique ? Et pourquoi pensez-vous que l'ontologie mathématique est une perspective utile pour la compréhension de notre monde ?
 
-**Pr**** ****Dubois** : Bonsoir à tous. L'ontologie mathématique offre un cadre conceptuel solide pour explorer les fondements de la réalité et de l'existence. Et donc sans vouloir offusquer Parménide ou Heidegger, en utilisant les outils mathématiques, nous pouvons formaliser nos connaissances sur le monde et développer des modèles précis et prédictifs. Cela nous permet de mieux comprendre les structures sous-jacentes de l’humanité et d'appréhender des concepts abstraits de manière concrète. Comprenez que l’ontologie pose des questions fondamentales et en fin de compte, l'ontologie mathématique nous aide à organiser nos connaissances et à progresser dans de nombreux domaines de la science et de la philosophie.
+**Pr** **** **Dubois**  : Bonsoir à tous. L'ontologie mathématique offre un cadre conceptuel solide pour explorer les fondements de la réalité et de l'existence. Et donc sans vouloir offusquer Parménide ou Heidegger, en utilisant les outils mathématiques, nous pouvons formaliser nos connaissances sur le monde et développer des modèles précis et prédictifs. Cela nous permet de mieux comprendre les structures sous-jacentes de l’humanité et d'appréhender des concepts abstraits de manière concrète. Comprenez que l’ontologie pose des questions fondamentales et en fin de compte, l'ontologie mathématique nous aide à organiser nos connaissances et à progresser dans de nombreux domaines de la science et de la philosophie.
 
-**Animateur :** Merci, Monsieur Dubois. Maintenant, donnons la parole à Madame Martin, qui exprime des réserves quant à l'adoption de l'ontologie mathématique. Docteur Martin, quelles sont vos préoccupations concernant cette approche ?
+**Animateur :**  Merci, Monsieur Dubois. Maintenant, donnons la parole à Madame Martin, qui exprime des réserves quant à l'adoption de l'ontologie mathématique. Docteur Martin, quelles sont vos préoccupations concernant cette approche ?
 
-**Dr.**** Martin :** Mon principal souci concernant l'ontologie mathématique est sa tendance à réduire la richesse et la complexité du monde à des concepts mathématiques abstraits. Bien que les mathématiques soient un outil puissant pour modéliser certains aspects de la réalité, elles ne capturent pas toujours la totalité de l'expérience humaine. En se concentrant exclusivement sur les structures formelles et les relations mathématiques, nous risquons de perdre de vue la diversité et la subjectivité de l'expérience humaine, ce qui peut limiter notre compréhension globale du monde.
+**Dr.** **Martin :**  Mon principal souci concernant l'ontologie mathématique est sa tendance à réduire la richesse et la complexité du monde à des concepts mathématiques abstraits. Bien que les mathématiques soient un outil puissant pour modéliser certains aspects de la réalité, elles ne capturent pas toujours la totalité de l'expérience humaine. En se concentrant exclusivement sur les structures formelles et les relations mathématiques, nous risquons de perdre de vue la diversité et la subjectivité de l'expérience humaine, ce qui peut limiter notre compréhension globale du monde.
 
-**Animateur :** Des points de vue intéressants des deux côtés. Maintenant, je vais ouvrir le débat entre nos invités. Monsieur Lavoie, que répondez-vous aux préoccupations de Madame Martin concernant le réductionnisme de l'ontologie mathématique ?
+**Animateur :**  Des points de vue intéressants des deux côtés. Maintenant, je vais ouvrir le débat entre nos invités. Monsieur Lavoie, que répondez-vous aux préoccupations de Madame Martin concernant le réductionnisme de l'ontologie mathématique ?
 
-**Pr. ****Dubois**** :** Je comprends les préoccupations du Docteur Sophie Martin, mais je pense que l'ontologie mathématique peut coexister avec d'autres approches philosophiques et scientifiques pour offrir une vision plus complète du monde. Les mathématiques ne sont pas une fin en soi, mais un outil puissant pour explorer la réalité sous différents angles. En intégrant les perspectives multiples, nous pouvons enrichir notre compréhension du monde et éviter les pièges du réductionnisme.
+**Pr.** **Dubois** **:**  Je comprends les préoccupations du Docteur Sophie Martin, mais je pense que l'ontologie mathématique peut coexister avec d'autres approches philosophiques et scientifiques pour offrir une vision plus complète du monde. Les mathématiques ne sont pas une fin en soi, mais un outil puissant pour explorer la réalité sous différents angles. En intégrant les perspectives multiples, nous pouvons enrichir notre compréhension du monde et éviter les pièges du réductionnisme.
 
-**Animateur :** Docteur, avez-vous des réponses à apporter aux arguments du Professeur ?
+**Animateur :**  Docteur, avez-vous des réponses à apporter aux arguments du Professeur ?
 
-**Madame Martin :** Je reste sceptique quant à la capacité de l'ontologie mathématique à saisir la complexité et la diversité du monde. Bien que les mathématiques puissent être utiles dans certains domaines, nous devons garder à l'esprit qu'elles ne sont qu'une partie de l'équation. Il est important d'adopter une approche pluraliste qui valorise la diversité des perspectives et des méthodes dans notre quête de compréhension. Nous ne pouvons pas tout réduire à des chiffres.
+**Madame Martin :**  Je reste sceptique quant à la capacité de l'ontologie mathématique à saisir la complexité et la diversité du monde. Bien que les mathématiques puissent être utiles dans certains domaines, nous devons garder à l'esprit qu'elles ne sont qu'une partie de l'équation. Il est important d'adopter une approche pluraliste qui valorise la diversité des perspectives et des méthodes dans notre quête de compréhension. Nous ne pouvons pas tout réduire à des chiffres.
 
-**Animateur** : Merci à nos invités pour cet échange animé. Malheureusement, c'est tout le temps que nous avons pour ce soir. Nous espérons que ce débat vous a permis de mieux comprendre les enjeux de l'ontologie mathématique. Merci et passons à notre second débat pour ou contre l'avortement des pingouins ?
+**Animateur**  : Merci à nos invités pour cet échange animé. Malheureusement, c'est tout le temps que nous avons pour ce soir. Nous espérons que ce débat vous a permis de mieux comprendre les enjeux de l'ontologie mathématique. Merci et passons à notre second débat pour ou contre l'avortement des pingouins ?
 
 Le lendemain, Claude échangea avec ses collègues de bureau, un air perplexe peint sur son visage, tandis qu'ils discutaient du débat télévisé de la veille. Les discussions animées tournaient autour des concepts complexes évoqués par les intervenants, et il était clair que personne dans la pièce n'avait vraiment compris ce qui avait été dit.
 
@@ -371,9 +397,11 @@ Attachés à la ceinture de leur maître, les chiens de couleurs différentes se
 
 « Il n'y a pas idée de se balader avec des chiens aussi dangereux sans muselière… » murmura Claude à lui-même.
 
-Voyant l’heure tourner, Claude se dit qu’il était temps de sortir faire les fripes et de trouver quelque chose de nouveau à se mettre.
+> Voyant l’heure tourner, Claude se dit qu’il était temps de sortir faire les fripes et de trouver quelque chose de nouveau à se mettre.
 
-Claude rentre avec un poisson rouge.
+
+> Claude rentre avec un poisson rouge.
+
 
 # Le laboratoire
 
@@ -387,11 +415,14 @@ Leur domaine d'action était large et varié. Un jour, ils collaboraient avec de
 # Astride Moreau
 
 Dans ce laboratoire travaillait une jeune doctorante : Astride Moreau.
-**Description : **Astrid Moreau était tout d'abord un fouillis de foulard complexement noué les uns aux autres et autour de son cou tombant jusqu’à mi-cuisse. Ses cheveux courts, coupe à la garçonne, lui évitaient les nœuds qu'elle avait rencontrés dans une période Rasta bien révolue. Quelques piercings aux oreilles et au nez, entourés d'un visage doux et charmant. Enfin, un sarouel et des Kickers finissaient d'habiller le personnage. Pour cacher l’odeur de d’herbe de ses habits, Astride portait délicatement un parfum The Body Shop a la mûre.
+**Description :** Astrid Moreau était tout d'abord un fouillis de foulard complexement noué les uns aux autres et autour de son cou tombant jusqu’à mi-cuisse. Ses cheveux courts, coupe à la garçonne, lui évitaient les nœuds qu'elle avait rencontrés dans une période Rasta bien révolue. Quelques piercings aux oreilles et au nez, entourés d'un visage doux et charmant. Enfin, un sarouel et des Kickers finissaient d'habiller le personnage. Pour cacher l’odeur de d’herbe de ses habits, Astride portait délicatement un parfum The Body Shop a la mûre.
 Mais surtout, Astride était une chercheuse passionnée par les mystères de la data science depuis son plus jeune âge. Issue d'une famille de scientifiques, elle avait toujours été fascinée par les possibilités infinies offertes par les mathématiques et le hasard de ses professeurs l’avaient menée à l'analyse de données. C’est en obtenant son master en informatique et intelligence artificielle à l'Université de Lyon, où elle fut remarquée pour son talent et sa détermination, que son professeur lui proposa un poste dans ce laboratoire. En dehors de ses travaux de recherche, Astride était une fervente amatrice de voyages, toujours avide de découvrir de nouveaux horizons et de cultures. Elle se consacrait également à la photographie, capturant les moments fugaces de beauté qui jalonnaient sa vie. Ainsi, dans son bureau était affichés un mélimélo les tableaux de mathématiques, des portraits de ses amis et des posters de ses futurs voyages. Sur son bureau, un perpétuel capharnaüm de coupures de magazines de photo, d’articles scientifiques, et de papiers en cours de publication. Le seul espace vide était celui de sa tasse à café, toujours plein d’un fond de café froid qu’elle oubliait à la fois de finir de boire quand il était trop chaud et de laver lorsqu’il avait refroidi.
 
 Astride travaillait sur le recoupement de données statistiques visant à identifier les tendances d'achat des personnes par rapport à leur d'autres informations qu'on peut récupérer sur eux : profil Facebook et Instagram, historique de recherche sur internet, liste des achats effectués sur Amazon, informations pouvant être retrouvées sur le dark web. Elle collaborait également avec quelques entreprises locales et quelques grands laboratoires pharmaceutiques. 
-Parmi ses analyses les plus audacieuses, elle cherchait à établir des liens entre des éléments en apparence disparates. Elle explorait par exemple des corrélations entre le taux d'insuline de certaines personnes et les préférences en termes de lecture. Ou encore si le fait d'avoir acheté une baguette de pain à la boulangerie à 8h, d'être allé chez son gynécologue à midi, et d’avoir fait un selfie sur Instagram à 16h avec sa meilleure amie donnerait des indications sur la probabilité d'aller voir le prochain Star Wars au cinéma le soir même. 
+Parmi ses analyses les plus audacieuses, elle cherchait à établir des liens entre des éléments en apparence disparates. Elle explorait par exemple des corrélations entre le taux d'insuline de certaines personnes et les préférences en termes de lecture. > Ou encore si le fait d'avoir acheté une baguette de pain à la boulangerie à 8h
+> ,
+> d'être allé chez son gynécologue à midi, et d’avoir fait un selfie sur Instagram à 16h avec sa meilleure amie donnerait des indications sur la probabilité d'aller voir le prochain Star Wars au cinéma le soir même.
+ 
 Pour ce faire, Astride faisait des moyennes, observait des tendances et cherchait des corrélations significatives. Elle calculait la moyenne des photos prises sur internet, la moyenne de prise de poids des Françaises après avoir mangé une tablette de chocolat, la fréquence des consultations chez son psy et vérifiait si ces valeurs avaient tendance à monter ou à descendre. Puis elle cherchait des corrélations, c’est-à-dire des potentielles relations entre l’augmentation de la prise de chocolat et l’augmentation dans la fréquence des prises de rendez-vous chez son psy.
 ... Mais surtout, Astride travaillait pour le professeur Marc Dubois.
 
@@ -399,7 +430,7 @@ Pour ce faire, Astride faisait des moyennes, observait des tendances et cherchai
 
 En plus d’être un scientifique chevronné doté d'une longue expérience dans le domaine de la recherche en analyse de données, le professeur Marc Dubois était le fruit de la mondialisation des études supérieures. Après son master à ULM, le jeune Marc était parti faire son doctorat à l'université de Berkeley. Il avait poursuivi un post-doctorat à Berlin avant de voler pour l'université de Shanghai quelques années afin de parfaire son Mandarin. De retour en France, le fraichement nommé professeur Dubois fut rapidement remarqué et recruté à l'université de Lyon où il gravit les échelons à une vitesse folle. Il devint le premier directeur du centre d’analyse de mégadonnées à avoir moins de quarante ans. Il fixe rapidement comme objectif que le centre fasse le pont entre ontologie et mathématiques grâce à l’analyse systématique des données. Outre sa passion pour les langues et les langages informatiques et les mathématiques, le professeur Dubois était passionné de musique classique et de Jazz. Le soir, alors que ses collaborateurs avaient tendance à quitter le laboratoire, il s'enfermait dans son bureau pour improviser quelques morceaux de jazz à la clarinette ou au piano. Puis il rentrait à 21h chez lui, le sentiment d’avoir accompli son travail et il pouvait pleinement profiter de sa femme et de ses enfants.
 
-**Description :** Le professeur Marc Dubois était une figure singulière, un mélange captivant de l'érudition d'un universitaire et de l'audace d'un entrepreneur. Avec ses cheveux en bataille d'un brun profond, qui semblaient toujours résister aux tentatives de domptage, et ses yeux vifs derrière des lunettes rondes, il dégageait une aura d'intelligence et de détermination.
+**Description :**  Le professeur Marc Dubois était une figure singulière, un mélange captivant de l'érudition d'un universitaire et de l'audace d'un entrepreneur. Avec ses cheveux en bataille d'un brun profond, qui semblaient toujours résister aux tentatives de domptage, et ses yeux vifs derrière des lunettes rondes, il dégageait une aura d'intelligence et de détermination.
 Sa carrure imposante et son port altier lui donnaient une présence indéniable, qu'il mettait au service de sa passion pour la science et l'innovation. Toujours vêtu de façon décontractée mais élégante, avec une préférence pour les chemises à carreaux et les jeans, il incarnait le mariage réussi entre le monde académique et celui des start-ups.
 Son sourire franc et chaleureux pouvait rapidement se transformer en une expression sérieuse et concentrée dès qu'il abordait un sujet qui lui tenait à cœur. Sa voix grave et posée avait le pouvoir de captiver son auditoire, que ce soit lors d'une conférence académique ou d'une réunion avec des investisseurs potentiels.
 Le professeur Dubois était un homme d'action, constamment en mouvement, cherchant sans relâche de nouvelles opportunités et défis à relever. Son charisme naturel et son expertise dans son domaine faisaient de lui un leader respecté, tant dans le monde universitaire que dans celui de l'entrepreneuriat.
@@ -412,10 +443,21 @@ Dans sa routine quotidienne, Astride arrivait au travail à vélo, fouillait son
 
 # Benoit
 
-**Description : **
+**Description :** 
 
 
-Benoit faisait partie des clients du CRAD, il rencontrait une fois par semaine Astride qui lui faisait part de ses progrès sur les données récoltées par Beauté Éternelle. Leurs échanges réguliers permettaient de nourrir les liens entre les différentes branches de la recherche, faisant progresser la science dans des domaines aussi variés que la cosmétique et l'analyse de données. Leurs échanges réguliers, bien que modestes en apparence, constituaient en réalité des passerelles vitales entre la cosmétique et l'analyse de données, catalysant ainsi le progrès scientifique dans des domaines aussi variés que prometteurs. 
+Benoit faisait partie des clients du CRAD, il rencontrait une fois par semaine Astride qui lui faisait part de ses progrès sur les données récoltées par Beauté Éternelle. > Leur
+> s
+> échange
+> s
+> régulier
+> s
+> permettai
+> en
+> t de nourrir les liens entre les différentes branches de la recherche, faisant progresser la science dans des domaines aussi variés que la cosmétique et l'analyse de données.
+> 
+> Leurs échanges réguliers, bien que modestes en apparence, constituaient en réalité des passerelles vitales entre la cosmétique et l'analyse de données, catalysant ainsi le progrès scientifique dans des domaines aussi variés que prometteurs.
+ 
 
 Benoit était un pur produit du marketing digital et de l'industrie pharmaceutique, couplé à esprit scientifique. C'est sous l'impulsion de Benoit que Beauté Eternelle s'était mise à l'analyse systématiques de leurs données. En effet, Benoit incarnait l'alliage unique entre esprit scientifique et stratégie commerciale. Convaincu de l'existence d'un lien profond entre les habitudes d'achat de ses clientes et les campagnes publicitaires qu'il orchestrait, il avait impulsé chez Beauté Éternelle une révolution méthodologique. Persuadé que chaque produit devait être taillé sur mesure pour une clientèle spécifique, il avait introduit une approche data-driven(*) dans l'entreprise, transformant ainsi son paysage et la propulsant au rang de leader mondial en produits cosmétiques. 
 
@@ -846,7 +888,7 @@ Fonction publique hospitalière (FPH) : 1,21 million d’agents
 La fonction publique emploie, 3 773 100 fonctionnaires, 1 230 500 contractuels, 311 300 militaires et 359 600 agents relevant des « autres catégories et statuts ». 
 Source: .
 2.33M chômeurs a quoi il faut rajouter le halo autour du chomage : 1.8M  = 4.1M et si on ajoute le sous emploi = 1.2M soit 5.4M
-**Décision** je n’aime pas que le métier de Claude soit Infirmier, Chauffeur ou Enseignant, je préfère que Claude soit dans la fonction publique, employé de mairie… il peut tout aussi bien être chômeur ou travailleur à temps partiel… **Travailleur ****a**** temps partiel a la mairie cocherait plus de cases**.
+**Décision**  je n’aime pas que le métier de Claude soit Infirmier, Chauffeur ou Enseignant, je préfère que Claude soit dans la fonction publique, employé de mairie… il peut tout aussi bien être chômeur ou travailleur à temps partiel… **Travailleur** **a** **temps partiel a la mairie cocherait plus de cases** .
  Source : 
 ¾ des francais portent des lunettes
 Source : .

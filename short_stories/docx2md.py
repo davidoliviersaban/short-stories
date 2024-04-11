@@ -17,14 +17,29 @@ def convert_to_md(input_docx, output_md):
                 md_file.write('#' * heading_level + ' ' + paragraph.text + '\n\n')
             else:
                 # Écrire le texte du paragraphe avec les mises en forme appropriées dans le fichier Markdown
+                # # Vérifier si le paragraphe fait partie d'une liste à puces
+                # if paragraph.style.name.startswith('List Bullet'):
+                #     md_file.write('* ' + paragraph.text + '\n')
+                # # Vérifier si le paragraphe fait partie d'une liste numérotée
+                # elif paragraph.style.name.startswith('List Number'):
+                #     md_file.write('1. ' + paragraph.text + '\n')
+                # # Parcourir chaque run dans le paragraphe
                 md_text = ''
                 for run in paragraph.runs:
-                    if run.bold:
-                        md_text += '**' + run.text + '**'
+                    if run.bold and run.italic:
+                        md_text += '***' + run.text.strip() + '*** '
+                    # Vérifier si le texte est en gras
+                    elif run.bold:
+                        md_text += '**' + run.text.strip() + '** '
+                    # Vérifier si le texte est en italique
                     elif run.italic:
-                        md_text += '*' + run.text + '*'
+                        md_text += '*' + run.text.strip() + '* '
+                    # Vérifier si le texte est surligné
+                    elif run.font.highlight_color is not None:
+                        md_text += '> ' + run.text.strip() + '\n'
                     else:
                         md_text += run.text
+                
                 md_file.write(md_text + '\n')
 
 if __name__ == '__main__':
