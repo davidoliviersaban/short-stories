@@ -1,194 +1,5 @@
 # L'homme étalon
 
-
-
-Personnages :
-
-Protagoniste : Claude est une femme car il y a plus de femmes que d’hommes en France. (51.6%)
-
-Habite au 25 Rue Benoit Semard, 69600 Oullins-Benoit-Bénite
-
-Antagoniste : ???
-
-Allie :
-
-Astride Moreau, Steve et Lana ses amis et co-thésards
-
-Benoit
-
-Pr Dubois ?
-
-Ennemis :
-
-Laboratoires étrangers
-
-Élites
-
-Neutres :
-
-Etienne Lavoie
-
-Étape Sept : L’Approche du cœur de la caverne
-
-Étape Huit : L’Épreuve suprême
-
-Étape Neuf : La Récompense
-
-Étape Dix : Le Chemin du retour
-
-Étape Onze : La Résurrection
-
-Étape Douze : Le Retour avec l’élixir
-
-
-
-# Chapitrage
-
-
-
-Avant-Propos ?
-
-
-
-Une singularité statistique 
-
-Méga fuite de données
-
-Débat entre scientifiques
-
-Présentation de Claude par Astride
-
-**Étape** **Un :** **Le Monde ordinaire** **** 
-
-La vie moyenne de Claude, exemples
-
-Rendez-vous chez le médecin.
-
-Lecture des magazines
-
-Débat et positionnement du médecin sur les tests en double aveugle et l’évolution des vaccins.
-
-Discussion autour des mesures poids, taille, tension, et prises de sang. Tout est parfait (1m63 et 62.5kg)
-
-De retour chez elle, Claude est d’accord avec son médecin.
-
-Claude regarde la télévision et zappe
-
-La télé-réalité
-
-Le journal de 20 heures
-
-Le reportage animalier les nuits ou Claude fait une insomnie.
-
-Finalement, ce que Claude préfère à la télévision, ce sont les pubs.
-
-Claude regarde à son balcon pour avoir quelque chose à dire
-
-L'homme musclé aux trois chiens
-
-Les vieilles dames sur le banc avec leurs chiens
-
-Il faudrait peut-être que j’ai un chien.
-
-Comment en est-on arrivé là ?
-
-Qui est Astride
-
-Calculs d’Astride et ses moyennes
-
-Rencontres hebdomadaires de Benoit avec Astride et comment Astride se retrouve à travailler sur ces données
-
-Débats et politique, Claude n’a pas d’avis
-
-Tout commence par un débat politique
-
-Claude écoute distraitement le débat
-
-Claude en parle au bureau le lendemain, débat houleux dans l’équipe, Claude ne prend pas parti.
-
-**Étape** **Deux :** **L’appel de l’aventure** 
-
-**Étape** **Trois :** **Le Refus de l’appel** 
-
-**Étape** **Quatre :** **La Rencontre avec le mentor** 
-
-Rencontre de Benoit et Claude
-
-Autour d’un repas, chacun fait le point sur sa vie.
-
-Claude est divorce avec un enfant a dont il s’occupe et un enfant pas de lui dont il prend la charge une fois par mois.
-Les Français ont en moyenne 1,8 enfants par couple.
-
-Claude raconte ses fins de mois difficiles et aimerait les arrondir.
-
-Benoît lui propose de venir travailler à son laboratoire pour tester ses produits. 
-
-**Étape Cinq : Le Passage du premier seuil** 
-
-Introduction du professeur Dubois.
-
-Décision d'inviter Claude pour effectuer des tests et valider les hypothèses
-
-Appel à Claude
-
-Validation des résultats
-
-Premiers débats internes sur les problèmes liés à Claude : que peut-on faire de Claude ?
-
-Opposition : on n’a jamais eu d’être vivant comme unité de mesure.
-
-
-
-**Moment pivot ou Claude devient la moyenne ->** **génération** **du** **délire** **et justification par la science** 
-
-
-
-**Étape** **Six :** **Les Tests, les Alliés et les Ennemis** 
-
-Comment Claude passe d’homme moyen a une moyenne.
-
-L'évolution de la vie de Claude, plus de travail, emballement médiatique
-
-La jalousie des collègues
-
-Proposition de dédommagement due à ces différents tests.
-
-Intérêt des laboratoires, c'est pharmaceutique pour Claude.
-
-Intérêt de l'INSEE pour Claude
-
-
-
-
-
-Création du premier colloque sur le Claude
-
-Un appareil à mesurer en Claude
-
-Les enjeux internationaux
-
-La guerre des Claude
-
-Les **controverses**  : Les problèmes inhérents à la mesure par le Claude ou quand la moitié des français vivent au rythme de Claude
-
-Chaque chapitre de controverse doit être initie par un débat et s’en suit une précision par un exemple.
-
-La controverse du poids : Claude peut prendre du poids et en perdre.
-
-La controverse de l’humeur : Les changements d'humeur de Claude
-
-La controverse des dépendances : que se passerait-il si Claude devient dépressif ou alcoholique ?
-
-La controverse du temps : Claude vieillit !
-
-La conclusion, il faut protéger Claude.
-
-Vers le diktat de la moyenne
-
-La révolution ?
-
-
-
 # Prologue : Pourquoi mesure-t-on ?
 
 
@@ -1602,6 +1413,187 @@ Ils se font arrêter ?
 
 Les hommes armés quittèrent le musée aussi rapidement qu'ils étaient arrivés, laissant derrière eux un chaos indescriptible. Les autorités furent rapidement alertées et une enquête fut ouverte pour retrouver les ravisseurs et leur précieuse cargaison…
 
+# Chapitrage
+
+Personnages :
+
+1. Protagoniste : Claude est une femme car il y a plus de femmes que d’hommes en France. (51.6%)
+
+1. Habite au 25 Rue Benoit Semard, 69600 Oullins-Benoit-Bénite
+
+1. Antagoniste : ???
+
+1. Allie :
+
+1. Astride Moreau, Steve et Lana ses amis et co-thésards
+
+1. Benoit
+
+1. Pr Dubois ?
+
+1. Ennemis :
+
+1. Laboratoires étrangers
+
+1. Élites
+
+1. Neutres :
+
+1. Etienne Lavoie
+
+Étape Sept : L’Approche du cœur de la caverne
+
+Étape Huit : L’Épreuve suprême
+
+Étape Neuf : La Récompense
+
+Étape Dix : Le Chemin du retour
+
+Étape Onze : La Résurrection
+
+Étape Douze : Le Retour avec l’élixir
+
+
+
+1. Avant-Propos ?
+
+1. Une singularité statistique 
+
+1. Méga fuite de données
+
+1. Débat entre scientifiques
+
+1. Présentation de Claude par Astride
+
+1. **Étape Un : Le Monde ordinaire** **** 
+
+1. La vie moyenne de Claude, exemples
+
+1. Rendez-vous chez le médecin.
+
+1. Lecture des magazines
+
+1. Débat et positionnement du médecin sur les tests en double aveugle et l’évolution des vaccins.
+
+1. Discussion autour des mesures poids, taille, tension, et prises de sang. Tout est parfait (1m63 et 62.5kg)
+
+1. De retour chez elle, Claude est d’accord avec son médecin.
+
+1. Claude regarde la télévision et zappe
+
+1. La télé-réalité
+
+1. Le journal de 20 heures
+
+1. Le reportage animalier les nuits ou Claude fait une insomnie.
+
+1. Finalement, ce que Claude préfère à la télévision, ce sont les pubs.
+
+1. Claude regarde à son balcon pour avoir quelque chose à dire
+
+1. L'homme musclé aux trois chiens
+
+1. Les vieilles dames sur le banc avec leurs chiens
+
+1. Il faudrait peut-être que j’ai un chien.
+
+1. Comment en est-on arrivé là ?
+
+1. Qui est Astride
+
+1. Calculs d’Astride et ses moyennes
+
+1. Rencontres hebdomadaires de Benoit avec Astride et comment Astride se retrouve à travailler sur ces données
+
+1. Débats et politique, Claude n’a pas d’avis
+
+1. Tout commence par un débat politique
+
+1. Claude écoute distraitement le débat
+
+1. Claude en parle au bureau le lendemain, débat houleux dans l’équipe, Claude ne prend pas parti.
+
+1. **Étape Deux : L’appel de l’aventure** 
+
+1. **Étape Trois : Le Refus de l’appel** 
+
+1. **Étape Quatre : La Rencontre avec le mentor** 
+
+1. Rencontre de Benoit et Claude
+
+1. Autour d’un repas, chacun fait le point sur sa vie.
+
+1. Claude est divorce avec un enfant a dont il s’occupe et un enfant pas de lui dont il prend la charge une fois par mois.
+Les Français ont en moyenne 1,8 enfants par couple.
+
+1. Claude raconte ses fins de mois difficiles et aimerait les arrondir.
+
+1. Benoît lui propose de venir travailler à son laboratoire pour tester ses produits. 
+
+1. **Étape Cinq : Le Passage du premier seuil** 
+
+1. Introduction du professeur Dubois.
+
+1. Décision d'inviter Claude pour effectuer des tests et valider les hypothèses
+
+1. Appel à Claude
+
+1. Validation des résultats
+
+1. Premiers débats internes sur les problèmes liés à Claude : que peut-on faire de Claude ?
+
+1. Opposition : on n’a jamais eu d’être vivant comme unité de mesure.
+
+
+
+1. **Moment pivot ou Claude devient la moyenne -> génération du délire et justification par la science** 
+
+
+
+1. **Étape Six : Les Tests, les Alliés et les Ennemis** 
+
+1. Comment Claude passe d’homme moyen a une moyenne.
+
+1. L'évolution de la vie de Claude, plus de travail, emballement médiatique
+
+1. La jalousie des collègues
+
+1. Proposition de dédommagement due à ces différents tests.
+
+1. Intérêt des laboratoires, c'est pharmaceutique pour Claude.
+
+1. Intérêt de l'INSEE pour Claude
+
+
+
+
+
+1. Création du premier colloque sur le Claude
+
+1. Un appareil à mesurer en Claude
+
+1. Les enjeux internationaux
+
+1. La guerre des Claude
+
+1. Les **controverses**  : Les problèmes inhérents à la mesure par le Claude ou quand la moitié des français vivent au rythme de Claude
+
+1. Chaque chapitre de controverse doit être initie par un débat et s’en suit une précision par un exemple.
+
+1. La controverse du poids : Claude peut prendre du poids et en perdre.
+
+1. La controverse de l’humeur : Les changements d'humeur de Claude
+
+1. La controverse des dépendances : que se passerait-il si Claude devient dépressif ou alcoholique ?
+
+1. La controverse du temps : Claude vieillit !
+
+1. La conclusion, il faut protéger Claude.
+
+1. Vers le diktat de la moyenne
+
+1. La révolution ?
+
 # Quelques statistiques
 
 Il y a en France 51,6% de femmes et donc 48,4% d'hommes.
@@ -1612,84 +1604,84 @@ Ressources
 
 
 
-Comment fait-on des statistiques en France ? 
+1. Comment fait-on des statistiques en France ? 
 Chaque année, l’Insee organise le recensement annuel en interrogeant 5 millions de logements. Les informations collectées concernent la composition des ménages, les liens familiaux et d’autres aspects démographiques. Ce processus permet d’obtenir des statistiques précises sur la population française.
 
-Bureau des poids et des mesures : 
+1. Bureau des poids et des mesures : 
 
-Comprendre sa prise de sang : 
+1. Comprendre sa prise de sang : 
 
-Organisation Mondiale de la métrologie legale pour l'économie : 
+1. Organisation Mondiale de la métrologie legale pour l'économie : 
 La métrologie légale désigne l’application d’exigences réglementaires à des mesurages et à des instruments de mesure. Le plus souvent, les erreurs mineures, en plus ou en moins, s’annulent en moyenne sur un nombre élevé de mesurages. Dans le cas d’erreurs biaisées, toutefois, le préjudice financier peut être considérable pour le consommateur final.
 
-Source : 
+1. Source : 
 
-Le top 10 des formations les plus demandées par les lycéens en 2022 sur Parcoursup, tout diplômes confondus :
+1. Le top 10 des formations les plus demandées par les lycéens en 2022 sur Parcoursup, tout diplômes confondus :
 
-Infirmier (688 985 vœux)
+1. Infirmier (688 985 vœux)
 
- (663 079 vœux)
+1.  (663 079 vœux)
 
-Formation d’ingénieur Bac + 5 (546 503 vœux)
+1. Formation d’ingénieur Bac + 5 (546 503 vœux)
 
- (294 972 vœux)
+1.  (294 972 vœux)
 
- (225 000 vœux)
+1.  (225 000 vœux)
 
- (181 831 vœux)
+1.  (181 831 vœux)
 
- (178 661 vœux)
+1.  (178 661 vœux)
 
- (171 757 vœux)
+1.  (171 757 vœux)
 
- (149 174 vœux)
+1.  (149 174 vœux)
 
- (143 371 vœux)
+1.  (143 371 vœux)
 
-Source : 
+1. Source : 
 le metier le plus pratique est enseignant pour les femmes et chauffeur pour les hommes.
 
-Source : 
+1. Source : 
 
-5,67 millions d’agents publics travaillent dans les trois versants de la fonction publique au 31 décembre 2021. L’emploi public représente près d’un emploi (salarié et non salarié) sur cinq en France (hors Mayotte). 
+1. 5,67 millions d’agents publics travaillent dans les trois versants de la fonction publique au 31 décembre 2021. L’emploi public représente près d’un emploi (salarié et non salarié) sur cinq en France (hors Mayotte). 
 
-Fonction publique de l’État (FPE) : 2,52 millions d’agents  
+1. Fonction publique de l’État (FPE) : 2,52 millions d’agents  
 
-Fonction publique territoriale (FPT) : 1,94 million d’agents 
+1. Fonction publique territoriale (FPT) : 1,94 million d’agents 
 
-Fonction publique hospitalière (FPH) : 1,21 million d’agents 
+1. Fonction publique hospitalière (FPH) : 1,21 million d’agents 
 
-La fonction publique emploie, 3 773 100 fonctionnaires, 1 230 500 contractuels, 311 300 militaires et 359 600 agents relevant des « autres catégories et statuts ». 
+1. La fonction publique emploie, 3 773 100 fonctionnaires, 1 230 500 contractuels, 311 300 militaires et 359 600 agents relevant des « autres catégories et statuts ». 
 
-Source: .
+1. Source: .
 
-2.33M chômeurs a quoi il faut rajouter le halo autour du chomage : 1.8M  = 4.1M et si on ajoute le sous emploi = 1.2M soit 5.4M
+1. 2.33M chômeurs a quoi il faut rajouter le halo autour du chomage : 1.8M  = 4.1M et si on ajoute le sous emploi = 1.2M soit 5.4M
 
-**Décision**  je n’aime pas que le métier de Claude soit Infirmier, Chauffeur ou Enseignant, je préfère que Claude soit dans la fonction publique, employé de mairie… il peut tout aussi bien être chômeur ou travailleur à temps partiel… **Travailleur** **a** **temps partiel a la mairie cocherait plus de cases** .
+1. **Décision**  je n’aime pas que le métier de Claude soit Infirmier, Chauffeur ou Enseignant, je préfère que Claude soit dans la fonction publique, employé de mairie… il peut tout aussi bien être chômeur ou travailleur à temps partiel… **Travailleur** **a** **temps partiel a la mairie cocherait plus de cases** .
 
- Source : 
+1.  Source : 
 
-¾ des francais portent des lunettes
+1. ¾ des francais portent des lunettes
 
-Source : .
+1. Source : .
 
- Aujourd'hui, 43% des foyers français possèdent un chien ou un chat : près d'1 foyer sur 3 possède un chat et 1 foyer sur 5 possède un chien.
+1.  Aujourd'hui, 43% des foyers français possèdent un chien ou un chat : près d'1 foyer sur 3 possède un chat et 1 foyer sur 5 possède un chien.
 
-Source : 
+1. Source : 
 Il semble qu’il y ait plus de poissons rouges que de chats, chiens et poules.
 Les animaux domestiques les plus nombreux en France sont…
 
-Les poissons ! Ils sont 32 millions !
+1. Les poissons ! Ils sont 32 millions !
 
-À la 2ème place arrivent les chats : Environ 14 millions
+1. À la 2ème place arrivent les chats : Environ 14 millions
 
-Et à la 3ème place les animaux de basse cours comme les poules : Environ 12 millions.
+1. Et à la 3ème place les animaux de basse cours comme les poules : Environ 12 millions.
 
-Les chiens, eux, arrivent en 4ème position : Ils sont 8 millions !
+1. Les chiens, eux, arrivent en 4ème position : Ils sont 8 millions !
 
 
 
-Statistiques sur les francais et les médecins : 
+1. Statistiques sur les francais et les médecins : 
 
 
 
