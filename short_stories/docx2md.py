@@ -40,7 +40,7 @@ def convert_to_md(input_docx, output_md):
                     else:
                         md_text += run.text
                 
-                md_file.write(md_text + '\n')
+                md_file.write(md_text + '\n\n')
 
 if __name__ == '__main__':
     # Créer un objet ArgumentParser
